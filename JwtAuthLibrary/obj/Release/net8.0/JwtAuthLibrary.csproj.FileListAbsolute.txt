@@ -1,0 +1,13 @@
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/bin/Release/net8.0/JwtAuthLibrary.deps.json
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/bin/Release/net8.0/JwtAuthLibrary.dll
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/bin/Release/net8.0/JwtAuthLibrary.pdb
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/obj/Release/net8.0/JwtAuthLibrary.csproj.AssemblyReference.cache
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/obj/Release/net8.0/JwtAuthLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/obj/Release/net8.0/JwtAuthLibrary.AssemblyInfoInputs.cache
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/obj/Release/net8.0/JwtAuthLibrary.AssemblyInfo.cs
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/obj/Release/net8.0/JwtAuthLibrary.csproj.CoreCompileInputs.cache
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/obj/Release/net8.0/JwtAuthLibrary.sourcelink.json
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/obj/Release/net8.0/JwtAuthLibrary.dll
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/obj/Release/net8.0/refint/JwtAuthLibrary.dll
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/obj/Release/net8.0/JwtAuthLibrary.pdb
+/home/snow/APIS/nugget-management-package/JwtAuthLibrary/obj/Release/net8.0/ref/JwtAuthLibrary.dll
