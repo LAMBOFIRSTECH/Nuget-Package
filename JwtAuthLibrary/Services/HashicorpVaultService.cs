@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using Microsoft.IdentityModel.Tokens;
 using System.Net.Sockets;
 using Microsoft.Extensions.Configuration;
-using JwtAuthLibrary.Middleware;
+using JwtAuthLibrary.Exception;
 namespace JwtAuthLibrary.Services;
 
 public class HashicorpVaultService(IConfiguration configuration)
