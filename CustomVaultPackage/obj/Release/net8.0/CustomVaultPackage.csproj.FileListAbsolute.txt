@@ -1,0 +1,13 @@
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/bin/Release/net8.0/CustomVaultPackage.deps.json
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/bin/Release/net8.0/CustomVaultPackage.dll
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/bin/Release/net8.0/CustomVaultPackage.pdb
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/obj/Release/net8.0/CustomVaultPackage.csproj.AssemblyReference.cache
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/obj/Release/net8.0/CustomVaultPackage.GeneratedMSBuildEditorConfig.editorconfig
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/obj/Release/net8.0/CustomVaultPackage.AssemblyInfoInputs.cache
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/obj/Release/net8.0/CustomVaultPackage.AssemblyInfo.cs
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/obj/Release/net8.0/CustomVaultPackage.csproj.CoreCompileInputs.cache
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/obj/Release/net8.0/CustomVaultPackage.sourcelink.json
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/obj/Release/net8.0/CustomVaultPackage.dll
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/obj/Release/net8.0/refint/CustomVaultPackage.dll
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/obj/Release/net8.0/CustomVaultPackage.pdb
+/home/snow/APIS/nugget-management-package/CustomVaultPackage/obj/Release/net8.0/ref/CustomVaultPackage.dll

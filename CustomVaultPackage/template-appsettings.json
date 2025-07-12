@@ -1,0 +1,15 @@
+{
+  "HashiCorp": {
+    "AppRole": {
+      "RoleId": "1fd13fe4-49ce-a242-45b1-a209ff7f57fc",
+      "SecretId": "d55948a2-c45b-987d-c299-1e90f7c946a1"
+    },
+    "HttpClient": {
+      "VaultAddress": "https://172.28.0.6:8200",
+      "Timeout": "00:02:30"
+    },
+    "JwtPublicKeyPath": "secret/auth-service",
+    "CertPath": "secret/cert",
+    "RabbitMqPath": "secret/rabbit-connection"
+  }
+}

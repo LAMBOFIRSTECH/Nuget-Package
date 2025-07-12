@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CustomVaultPackage</id>
+    <version>1.1.1</version>
+    <authors>artur lambo</authors>
+    <description>Bibliothèque pour interagir avec HashiCorp Vault pour récupération des secrets</description>
+    <tags>JWT, HashiCorp, Vault, RSA</tags>
+    <repository type="git" url="https://gitlab.com/artur437810/nugget-management-package/CustomVaultPackage" commit="4719f3ec0cab1d32ab54aa603bce9c3fba220a2c" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.Extensions.Configuration" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.JsonWebTokens" version="7.7.1" exclude="Build,Analyzers" />
+        <dependency id="VaultSharp" version="1.17.5.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/snow/APIS/nugget-management-package/CustomVaultPackage/bin/Debug/net8.0/CustomVaultPackage.dll" target="lib/net8.0/CustomVaultPackage.dll" />
+  </files>
+</package>
